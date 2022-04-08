@@ -1,0 +1,23 @@
+{
+  "name": "pc2console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubudotsh/pc2console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bubudotsh/pc2console/issues"
+  },
+  "homepage": "https://github.com/bubudotsh/pc2console#readme",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
