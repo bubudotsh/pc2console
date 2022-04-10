@@ -19,5 +19,8 @@
   "homepage": "https://github.com/bubudotsh/pc2console#readme",
   "devDependencies": {
     "electron": "^18.0.3"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
